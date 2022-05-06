@@ -1,0 +1,3 @@
+npm install bootstrap
+npm install axios
+npm install --save-dev css-loader
